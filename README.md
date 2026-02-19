@@ -94,7 +94,7 @@
       <td>팀 <br>프로젝트</td>
       <td>풀스택<br>Full-stack</td>
       <td>
-        🔗 <a href="https://github.com/full-stack-bootcamp-final-team-project">Github</a><br>
+        🔗 <a href="https://github.com/full-stack-bootcamp-final-team-project">Github</a><br />
         🔗 <a href="https://onesto.re/0001004308">App Download</a>
       </td>
     </tr>
@@ -124,8 +124,8 @@
       <td>개인 <br>프로젝트</td>
       <td>풀스택<br>Full-stack</td>
       <td>
-        🔗 <a href="">Github</a><br>
-        🔗 <a href="">Website</a>
+        🔗 <a href="https://github.com/yunseonhyun/instagram-clone">Github</a><br>
+        🔗 <a href="https://insta-front-ten.vercel.app/">Website</a>
       </td>
     </tr>
   </tbody>
@@ -154,5 +154,5 @@
 <p>
   <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30" align="absmiddle" />
   &nbsp;
-  <a href="mailto:sunvit9@gmail.com">sunvit9@gmail.com</a>
+  <a href="mailto:sunvit9@gmail.com">yunseon7093@naver.com</a>
 </p>
