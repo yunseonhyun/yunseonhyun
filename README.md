@@ -20,6 +20,7 @@
 <li>인공지능소프트웨어학과 학사 졸업 <br>Department of Artificial Intelligence & Software</li>
 </ul>
 
+<br>
 <h2> 🛠️ Tech Stacks </h2>
 <h4> Front-end </h4>
   
@@ -87,6 +88,7 @@
 
 </div>
 
+<br>
 <div align="center">
 <h3>📊 GitHub Activity 📊</h3>
 <!-- ### 📊 GitHub Stats -->
@@ -95,6 +97,7 @@
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yunseonHyun&layout=compact&bg_color=ffffff&title_color=dda0dd&text_color=444444" height="160"/>
 </div>
 
+<br>
 <h2>💻 Projects</h2>
 <table>
   <thead>
@@ -150,6 +153,7 @@
   </tbody>
 </table>
 
+<br>
 <h2>🪪 Certificates</h2>
 <table>
   <thead>
@@ -168,8 +172,8 @@
   </tbody>
 </table>
 
+<br>
 <h2>✉️ Contact Me</h2>
-
 <p>
   <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30" align="absmiddle" />
   &nbsp;
