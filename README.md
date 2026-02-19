@@ -40,11 +40,13 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-111111?style=for-the-badge&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 <h4> Database </h4>
 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 <h4> DevOps & Cloud </h4>
@@ -55,6 +57,9 @@
 ![Ubuntu](https://img.shields.io/badge/Linux%20(Ubuntu)-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![AWS Security Group](https://img.shields.io/badge/AWS%20Security%20Group-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
+![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 
 <h4> Tools </h4>
@@ -64,8 +69,8 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![ERD Cloud](https://img.shields.io/badge/ERDCloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse_IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
 
@@ -89,17 +94,18 @@
       <td>팀 <br>프로젝트</td>
       <td>풀스택<br>Full-stack</td>
       <td>
-        🔗 <a href="https://github.com/full-stack-bootcamp-final-team-project">Github</a>
+        🔗 <a href="https://github.com/full-stack-bootcamp-final-team-project">Github</a><br>
+        🔗 <a href="https://onesto.re/0001004308">App Download</a>
       </td>
     </tr>
     <tr>
-      <td>TICKETNOW</td>
-      <td>사용자가 공연·전시·이벤트 티켓을 쉽고 빠르게 예매할 수 있도록 구현된 <br> 웹 기반 티켓 예매 서비스</td>
+      <td>GASNOW</td>
+      <td>오피넷 API를 활용하여 지도 상에서 현 위치를 기준으로 인근 주유소를 보여주고, <br>유가 관련 인사이트를 제공하는 웹사이트</td>
       <td>팀 <br>프로젝트</td>
       <td>풀스택<br>Full-stack</td>
       <td>
-        🔗 <a href="https://github.com/svv0003/GasNOW">Github</a><br />
-        🔗 <a href="">Website</a>
+        🔗 <a href="https://github.com/yunseonhyun/GasNOW">Github</a><br/>
+        🔗 <a href="https://gasnow-production.up.railway.app">Website</a>
       </td>
     </tr>
     <tr>
@@ -108,7 +114,8 @@
       <td>개인 <br>프로젝트</td>
       <td>프론트엔드<br>Front-end</td>
       <td>
-        🔗 <a href="https://github.com/yunseonhyun/steakhouse-website">Github</a>
+        🔗 <a href="https://github.com/yunseonhyun/steakhouse-website">Github</a><br>
+        🔗 <a href="https://steakhouse-website-eight.vercel.app/">Website</a>
       </td>
     </tr>
      <tr>
