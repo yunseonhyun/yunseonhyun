@@ -1,21 +1,10 @@
 
-
 <div>
-
 <div align="center">
   <img style="transform: rotate(180deg);" 
        src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=yunseon%20Hyun&fontSize=42&fontColor=ffffff&animation=twinkling" />
 </div>
 
-
-
-
-
-
-
-
-
-  <br>
 <h2> 🎓 Education </h2>
 <h4>청주대학교 (Cheongju University)</h4>
 <ul>
