@@ -1,13 +1,25 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1200&color=00FFAA&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Flutter+%26+Spring+Boot+Engineer;Building+Real-World+Services" />
-</h1>
+
 
 <div>
+
+<div align="center">
+  <img style="transform: rotate(180deg);" 
+       src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=yunseon%20Hyun&fontSize=42&fontColor=ffffff&animation=twinkling" />
+</div>
+
+
+
+
+
+
+
+
+
   <br>
 <h2> 🎓 Education </h2>
-<h4>대학교 ( University)</h4>
+<h4>청주대학교 (Cheongju University)</h4>
 <ul>
-<li> 학사 졸업 <br>B.S in application software</li>
+<li>인공지능소프트웨어학과 학사 졸업 <br>Department of Artificial Intelligence & Software</li>
 </ul>
 
 <h2> 🛠️ Tech Stacks </h2>
@@ -27,6 +39,7 @@
 <h4> Back-end </h4>
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white)
 ![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logo=mybatis&logoColor=white)
