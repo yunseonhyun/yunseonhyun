@@ -5,6 +5,15 @@
        src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=yunseon%20Hyun&fontSize=42&fontColor=ffffff&animation=twinkling" />
 </div>
 
+<div align=center><h3>👩🏻‍💼 IT'S ME! 👩🏻‍💼</h3></div>
+
+<div align=center>
+안녕하세요, 더 나은 경험을 설계하는 풀스택 개발자 <strong>현윤선</strong>입니다.<br>
+사용자 친화적인 UI/UX와 안정적이고 효율적인 백엔드 설계를 중요하게 생각합니다.<br>
+깔끔한 코드와 최적화된 구조를 바탕으로 완성도 높은 서비스를 구현하는 것을 목표로 합니다.<br>
+<br>
+
+
 <h2> 🎓 Education </h2>
 <h4>청주대학교 (Cheongju University)</h4>
 <ul>
@@ -76,6 +85,14 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse_IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
 
+</div>
+
+<div align="center">
+<h3>📊 GitHub Activity 📊</h3>
+<!-- ### 📊 GitHub Stats -->
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=yunseonHyun&show_icons=true&bg_color=ffffff&title_color=dda0dd&icon_color=dda0dd&text_color=444444" height="160"/>
+<!-- ### 💻 Most Used Language -->
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yunseonHyun&layout=compact&bg_color=ffffff&title_color=dda0dd&text_color=444444" height="160"/>
 </div>
 
 <h2>💻 Projects</h2>
