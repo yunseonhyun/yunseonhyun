@@ -90,13 +90,6 @@
 </div>
 
 <br>
-<div align="center">
-<h3>📊 GitHub Activity 📊</h3>
-<!-- ### 📊 GitHub Stats -->
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=yunseonHyun&show_icons=true&bg_color=ffffff&title_color=dda0dd&icon_color=dda0dd&text_color=444444" height="160"/>
-<!-- ### 💻 Most Used Language -->
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yunseonHyun&layout=compact&bg_color=ffffff&title_color=dda0dd&text_color=444444" height="160"/>
-</div>
 
 <br>
 <h2>💻 Projects</h2>
@@ -178,5 +171,14 @@
 <p>
   <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30" align="absmiddle" />
   &nbsp;
-  <a href="mailto:sunvit9@gmail.com">yunseon7093@naver.com</a>
+  <a href="mailto:yunseon7093@gmail.com">yunseon7093@gmail.com</a>
 </p>
+<br>
+<div align="center">
+<h3>📊 GitHub Activity 📊</h3>
+<!-- ### 📊 GitHub Stats -->
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=yunseonHyun&show_icons=true&bg_color=ffffff&title_color=dda0dd&icon_color=dda0dd&text_color=444444" height="160"/>
+<!-- ### 💻 Most Used Language -->
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yunseonHyun&layout=compact&bg_color=ffffff&title_color=dda0dd&text_color=444444" height="160"/>
+</div>
+
