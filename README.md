@@ -121,7 +121,7 @@
       <td>풀스택<br>Full-stack</td>
       <td>
         🔗 <a href="https://github.com/yunseonhyun/GasNOW">Github</a><br/>
-        🔗 <a href="https://gasnow.store">Website</a>
+        🔗 <a href="https://gasnow.shop">Website</a>
       </td>
     </tr>
     <tr>
